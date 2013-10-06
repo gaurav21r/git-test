@@ -1,3 +1,5 @@
 **********
 Badminton!
 **********
+
+Hello Dojo!
